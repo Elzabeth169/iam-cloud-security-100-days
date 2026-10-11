@@ -10,6 +10,7 @@
 - Permission
 - Resource
 
+
 ## Identity
 
 An identity represents an entity that can be recognized by a system.
